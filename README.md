@@ -4,7 +4,7 @@
 [ICT 4300 - Web Enabled Information Systems](https://universitycollege.du.edu/courses/coursesdetail.cfm?degreecode=ict&coursenum=4300) is a required concentration course for University of Denver - University College's [Master of Science in Information and Communications Technology](https://universitycollege.du.edu/ict/degree/masters/web-design-and-development-online/degreeid/400). The course emphasizes database design and object-oriented modeling methods, including use cases, class, and activity diagrams that describe the informational and behavioral content of a web application's objects.
 
 ## Project Information
-My final project is a mockup of a fictitious stock-image sharing application. The project examines the object interaction life cycle from the client- to server-side, primarily through entity relationship diagrams. This map of user interactions and data encapsulation provides a roadmap to begin working on a real-world web application. 
+My final project is a mockup of a fictitious stock-image sharing application. The project examines the object interaction life cycle from the client- to server-side, primarily through use case, class, and entity relationship diagrams. This map of user interactions and data encapsulation provides a roadmap to begin working on a real-world web application. 
 
 # Files
 
